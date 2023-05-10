@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello World 👋
+### My name is Joseph Publico and this is my first time on GitHub!
+### I am majoring in Computer Science and I am excited to continue learning!
 
 <!--
 **jaypub2002/jaypub2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
