@@ -1,5 +1,5 @@
 ### Hello World 👋
-### My name is Joseph Publico and this is my first time on GitHub!
+### My name is Joseph Publico
 ### I am majoring in Computer Science and I am excited to continue learning!
 
 <!--
